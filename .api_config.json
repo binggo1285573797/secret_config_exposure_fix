@@ -1,0 +1,5 @@
+{
+    "api_key": "sk_live_very_secret_key_12345",
+    "api_secret": "sec_super_secret_token_abcde",
+    "endpoint": "https://api.sensitive-service.com/v1"
+}
